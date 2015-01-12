@@ -1,0 +1,17 @@
+{
+    "name": "zzc/zzc",
+    "description": "my askdjas",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "author's name",
+            "email": "email@example.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "F\\S\\":"src/F/S"
+        }
+    }
+}
