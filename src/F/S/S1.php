@@ -11,4 +11,7 @@ class S1 {
     public static function  info(){
         echo "S1";
     }
+    public static function in1(){
+        return 123;
+    }
 } 
